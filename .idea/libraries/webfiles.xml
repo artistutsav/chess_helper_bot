@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webfiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/venv/lib/python3.8/site-packages/tensorboard/webfiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

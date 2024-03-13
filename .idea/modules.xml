@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/tools/benchmark/android/android.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/tools/benchmark/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chess_helper_bot.iml" filepath="$PROJECT_DIR$/.idea/chess_helper_bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/tools/benchmark/experimental/delegate_performance/delegate_performance.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/tools/benchmark/experimental/delegate_performance/delegate_performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/demo/demo.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/tools/benchmark/experimental/firebase/firebase.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/tools/benchmark/experimental/firebase/firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/flex/flex.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/flex/flex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/java/src/gen/gen.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/java/src/gen/gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/gpu/gpu.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/gpu/gpu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/hexagon/hexagon.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/hexagon/hexagon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/tools/android/inference_interface/inference_interface.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/tools/android/inference_interface/inference_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/lite.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/ovic/src/main/main.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/ovic/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/src/main/main1.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/java/src/main/main2.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/java/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/nnapi/nnapi.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/delegates/nnapi/nnapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/java/src/test/test.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/java/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/tools/android/test/test1.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/tools/android/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/ovic/src/test/test2.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/ovic/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/src/test/test3.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/src/testhelper/testhelper.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/lite/java/src/testhelper/testhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/tools/tools.iml" filepath="$PROJECT_DIR$/tensorflow_chessbot-chessfenbot/tensorflow/tensorflow/tools/tools.iml" />
+    </modules>
+  </component>
+</project>

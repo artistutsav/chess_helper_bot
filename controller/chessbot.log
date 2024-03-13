@@ -1,0 +1,9 @@
+2024-03-07 15:11:55,855 - INFO - Command executed: python3 /root/my-server/stockfish_engine/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-07 15:11:55,855 - INFO - Output:
+2024-03-07 15:11:55,855 - INFO - 
+2024-03-07 15:11:55,855 - INFO - Error:
+2024-03-07 15:11:55,855 - INFO - /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/root/my-server/stockfish_engine/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py': [Errno 2] No such file or directory
+
+2024-03-07 15:11:55,855 - ERROR - Error running TensorFlow chessbot:
+2024-03-07 15:11:55,856 - ERROR - /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/root/my-server/stockfish_engine/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py': [Errno 2] No such file or directory
+

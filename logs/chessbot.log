@@ -1,0 +1,285 @@
+2024-03-10 22:26:52,807 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-10 22:26:52,807 - INFO - Output:
+2024-03-10 22:26:52,807 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-10 22:26:52,807 - INFO - Error:
+2024-03-10 22:26:52,807 - INFO - 
+2024-03-10 22:26:52,808 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-10 22:35:10,493 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-10 22:35:10,493 - INFO - Output:
+2024-03-10 22:35:10,493 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-10 22:35:10,493 - INFO - Error:
+2024-03-10 22:35:10,493 - INFO - 
+2024-03-10 22:35:10,493 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-10 22:37:01,170 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-10 22:37:01,172 - INFO - Output:
+2024-03-10 22:37:01,172 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-10 22:37:01,172 - INFO - Error:
+2024-03-10 22:37:01,172 - INFO - 
+2024-03-10 22:37:01,172 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-10 23:43:11,415 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-10 23:43:11,418 - INFO - Output:
+2024-03-10 23:43:11,418 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-10 23:43:11,418 - INFO - Error:
+2024-03-10 23:43:11,418 - INFO - 
+2024-03-10 23:43:11,418 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-10 23:59:48,851 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-10 23:59:48,854 - INFO - Output:
+2024-03-10 23:59:48,854 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-10 23:59:48,854 - INFO - Error:
+2024-03-10 23:59:48,854 - INFO - 
+2024-03-10 23:59:48,854 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:04:48,051 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-11 00:04:48,052 - INFO - Output:
+2024-03-11 00:04:48,053 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-11 00:04:48,053 - INFO - Error:
+2024-03-11 00:04:48,053 - INFO - 
+2024-03-11 00:04:48,053 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:08:54,667 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-11 00:08:54,668 - INFO - Output:
+2024-03-11 00:08:54,668 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-11 00:08:54,668 - INFO - Error:
+2024-03-11 00:08:54,668 - INFO - 
+2024-03-11 00:08:54,668 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:08:57,054 - INFO - Best Move: h2h3
+2024-03-11 00:08:57,060 - INFO - Best Move: h2h3
+2024-03-11 00:24:37,785 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-11 00:24:37,788 - INFO - Output:
+2024-03-11 00:24:37,788 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-11 00:24:37,788 - INFO - Error:
+2024-03-11 00:24:37,788 - INFO - 
+2024-03-11 00:24:37,788 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:24:40,472 - INFO - Best Move: h2h3
+2024-03-11 00:24:40,475 - INFO - Best Move: h2h3
+2024-03-11 00:26:33,346 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-11 00:26:33,346 - INFO - Output:
+2024-03-11 00:26:33,346 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-11 00:26:33,346 - INFO - Error:
+2024-03-11 00:26:33,346 - INFO - 
+2024-03-11 00:26:33,347 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:26:36,014 - INFO - Best Move: h2h3
+2024-03-11 00:26:36,015 - INFO - Best Move: h2h3
+2024-03-11 00:27:47,391 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-11 00:27:47,392 - INFO - Output:
+2024-03-11 00:27:47,392 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-11 00:27:47,392 - INFO - Error:
+2024-03-11 00:27:47,392 - INFO - 
+2024-03-11 00:27:47,392 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:27:50,189 - INFO - Best Move: h2h3
+2024-03-11 00:27:50,190 - INFO - Best Move: h2h3
+2024-03-11 00:32:16,254 - INFO - Command executed: python3 /Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/tensorflow_chessbot.py --filepath /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png
+2024-03-11 00:32:16,256 - INFO - Output:
+2024-03-11 00:32:16,257 - INFO - 
+--- Prediction on file /Users/artistutsav/Documents/my-server/chess_helper_bot/temp/output.png ---
+	 Loading model '/Users/artistutsav/Documents/my-server/chess_helper_bot/resources/tensorflow_chessbot-chessfenbot/saved_models/frozen_graph.pb'
+	 Model restored.
+Closing session.
+Per-tile certainty:
+[[1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]
+ [1.    1.    0.998 1.    1.    1.    1.    1.   ]
+ [1.    0.999 1.    0.998 1.    0.999 1.    1.   ]
+ [1.    1.    1.    1.    1.    1.    1.    1.   ]]
+Certainty range [0.998228 - 1], Avg: 0.99989
+---
+Predicted FEN:
+rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+Final Certainty: 99.8%
+
+2024-03-11 00:32:16,257 - INFO - Error:
+2024-03-11 00:32:16,257 - INFO - 
+2024-03-11 00:32:16,257 - INFO - Predicted FEN: rn1qkbnr/pp2pppp/8/2pp4/4P1b1/2P5/PP1P1PPP/RNB1KBNR w - - 0 1
+2024-03-11 00:32:18,969 - INFO - Best Move: h2h3
+2024-03-11 00:32:18,970 - INFO - Best Move: h2h3
